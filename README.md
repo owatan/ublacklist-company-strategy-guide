@@ -1,8 +1,11 @@
-# Stack Overflow の機械翻訳サイトの除外用フィルタ
+# 企業系攻略サイトの除外用フィルタ
+
+## TL;DR
+[企業系攻略サイトを回避してググれるサイトをつくりました。 - ゲームブンセキ](https://gamebunseki.hatenablog.com/entry/2019/11/26/231054)
 
 ## 概要
 
-Stack Overflow の機械翻訳に過ぎないサイトを Google 検索の結果から除外するためのフィルタです。
+企業系攻略サイトを Google 検索の結果から除外するためのフィルタです。
 
 Google Chrome の拡張機能である [uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja) で購読可能な書式で記載しています。
 
