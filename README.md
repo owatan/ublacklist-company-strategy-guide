@@ -20,8 +20,8 @@ Google Chrome の拡張機能である [uBlacklist](https://chrome.google.com/we
 
 | 項目 | 内容 |
 | ---- | :------- |
-| 名前 | Stack Overflow の機械翻訳サイトの除外用フィルタ |
-| URL  | https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt |
+| 名前 | 企業系攻略サイトの除外用フィルタ |
+| URL  | https://raw.githubusercontent.com/owatan/ublacklist-company-strategy-guide/master/uBlacklist.txt |
 
 <img src="dialog.jpg" width="50%">
 
